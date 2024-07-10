@@ -1,0 +1,21 @@
+{
+    "services": [{
+        "name": "Online Esential Services"
+    },
+    {
+        "name": "Business Services"
+    },
+    {
+        "name": "Graphic Design and Branding"
+    },
+    {
+        "name": "CCTV Installation Services"
+    },
+    {
+        "name": "Bureau Services"
+    },
+    {
+        "name":"Computer repair services"
+    }
+]
+}

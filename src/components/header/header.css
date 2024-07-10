@@ -1,0 +1,13 @@
+nav {
+    border-bottom: 1px solid rgba(245, 245, 245, 0.301);
+}
+img {
+    width: 248px;
+}
+.service-span {
+    margin-right: 8px;
+    margin-top: 4px;
+}
+.call-us-icon {
+    margin-left: 6px;
+}
